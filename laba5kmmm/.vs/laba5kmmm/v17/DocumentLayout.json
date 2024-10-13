@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lesen\\source\\repos\\laba5kmmm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C206FF7-35AF-489D-8D1C-9ECAB8CB79F0}|laba5kmmm\\laba5kmmm.csproj|c:\\users\\lesen\\source\\repos\\laba5kmmm\\laba5kmmm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C206FF7-35AF-489D-8D1C-9ECAB8CB79F0}|laba5kmmm\\laba5kmmm.csproj|solutionrelative:laba5kmmm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C206FF7-35AF-489D-8D1C-9ECAB8CB79F0}|laba5kmmm\\laba5kmmm.csproj|c:\\users\\lesen\\source\\repos\\laba5kmmm\\laba5kmmm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C206FF7-35AF-489D-8D1C-9ECAB8CB79F0}|laba5kmmm\\laba5kmmm.csproj|solutionrelative:laba5kmmm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lesen\\source\\repos\\laba5kmmm\\laba5kmmm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "laba5kmmm\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lesen\\source\\repos\\laba5kmmm\\laba5kmmm\\MainWindow.xaml",
+              "RelativeToolTip": "laba5kmmm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T12:35:06.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lesen\\source\\repos\\laba5kmmm\\laba5kmmm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "laba5kmmm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lesen\\source\\repos\\laba5kmmm\\laba5kmmm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "laba5kmmm\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwFMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:18:11.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

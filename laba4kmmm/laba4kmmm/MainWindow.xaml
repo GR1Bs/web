@@ -1,0 +1,23 @@
+﻿<Window x:Class="laba4kmmm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:oxy="http://oxyplot.org/wpf"
+        xmlns:local="clr-namespace:laba4kmmm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Button x:Name="metod1" Content="Метод трапеции" Width="100" Height="30" Margin="10,394,690,10" Click="metod1_Click" ></Button>
+        <TextBox x:Name="chag1" Width="60" Height="20" Margin="12,316,728,98" ></TextBox>
+        <TextBox x:Name="chag2" Width="60" Height="20" Margin="115,316,625,98" ></TextBox>
+        <TextBox x:Name="chag3" Width="60" Height="20" Margin="12,369,728,45" ></TextBox>
+        <Button x:Name="metod2" Content="Метод Симсона" Margin="128,394,578,10" Click="metod2_Click"/>
+        <oxy:PlotView x:Name="plotView" Margin="12,35,10,155" />
+        <Label  HorizontalAlignment="Left" Margin="12,284,0,0" VerticalAlignment="Top" Content="Введите границы интегрирования"/>
+        <Label Content="Введите шаг интегрирования" HorizontalAlignment="Left" Margin="12,341,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="result1" HorizontalAlignment="Left" Margin="245,406,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Результат" HorizontalAlignment="Left" Margin="245,383,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

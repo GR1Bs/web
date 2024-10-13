@@ -1,0 +1,15 @@
+body {
+  background-image: url("C:\Users\lesen\OneDrive\Изображения\стикеры\photo_2023-09-15_21-59-04 (2).png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+
+li {
+  list-style-type: none; /* Убирает точку */
+}
+a {
+  color: rgb(0, 0, 0); /* Делает текст черным */
+}

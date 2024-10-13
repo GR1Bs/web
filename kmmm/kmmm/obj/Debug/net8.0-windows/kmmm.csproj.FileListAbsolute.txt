@@ -1,0 +1,11 @@
+C:\Users\lesen\source\repos\kmmm\kmmm\bin\Debug\net8.0-windows\kmmm.deps.json
+C:\Users\lesen\source\repos\kmmm\kmmm\bin\Debug\net8.0-windows\kmmm.dll
+C:\Users\lesen\source\repos\kmmm\kmmm\bin\Debug\net8.0-windows\kmmm.pdb
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\kmmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\kmmm.AssemblyInfoInputs.cache
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\kmmm.AssemblyInfo.cs
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\kmmm.csproj.CoreCompileInputs.cache
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\kmmm.dll
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\refint\kmmm.dll
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\kmmm.pdb
+C:\Users\lesen\source\repos\kmmm\kmmm\obj\Debug\net8.0-windows\ref\kmmm.dll

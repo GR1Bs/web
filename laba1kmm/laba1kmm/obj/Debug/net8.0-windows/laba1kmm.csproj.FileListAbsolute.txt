@@ -1,0 +1,16 @@
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\bin\Debug\net8.0-windows\laba1kmm.exe
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\bin\Debug\net8.0-windows\laba1kmm.deps.json
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\bin\Debug\net8.0-windows\laba1kmm.runtimeconfig.json
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\bin\Debug\net8.0-windows\laba1kmm.dll
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\bin\Debug\net8.0-windows\laba1kmm.pdb
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.Form1.resources
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.csproj.GenerateResource.cache
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.AssemblyInfoInputs.cache
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.AssemblyInfo.cs
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.csproj.CoreCompileInputs.cache
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.dll
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\refint\laba1kmm.dll
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.pdb
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\laba1kmm.genruntimeconfig.cache
+C:\Users\lesen\source\repos\laba1kmm\laba1kmm\obj\Debug\net8.0-windows\ref\laba1kmm.dll

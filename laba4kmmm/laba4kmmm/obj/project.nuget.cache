@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdZmVJ6gINYCG4Vr47agXwO3BKEyp+ZyzF5qHwOMR6svyUbf6cXymRdYIj/y6TwjoiPuHePTiKvcTt9NOEZ5qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lesen\\source\\repos\\laba4kmmm\\laba4kmmm\\laba4kmmm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lesen\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\lesen\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\lesen\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

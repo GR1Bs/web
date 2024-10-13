@@ -1,0 +1,20 @@
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\bin\Debug\net8.0-windows\kmmm laba51.exe
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\bin\Debug\net8.0-windows\kmmm laba51.deps.json
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\bin\Debug\net8.0-windows\kmmm laba51.runtimeconfig.json
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\bin\Debug\net8.0-windows\kmmm laba51.dll
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\bin\Debug\net8.0-windows\kmmm laba51.pdb
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51_MarkupCompile.cache
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51_MarkupCompile.lref
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.g.resources
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.AssemblyInfoInputs.cache
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.AssemblyInfo.cs
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.csproj.CoreCompileInputs.cache
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.dll
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\refint\kmmm laba51.dll
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.pdb
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\kmmm laba51.genruntimeconfig.cache
+C:\Users\lesen\source\repos\kmmm laba51\kmmm laba51\obj\Debug\net8.0-windows\ref\kmmm laba51.dll

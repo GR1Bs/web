@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="menu.css">
+        <script src="time.js"></script>
+        <script src="date.js"></script>
+        <title>BebraGames</title>
+        
+        <style>
+            /* Стили для оформления страницы */
+            /*  шрифт */
+            
+            body {
+             
+                font-family: 'Oswald';
+                 src: url('D:\Oswald-VariableFont_wght.ttf') format('truetype');
+
+                 margin: 0;
+                 padding: 0;
+                
+                 background-color: rgb(255, 255, 255);
+  background-image: url('C:\Users\lesen\OneDrive\Изображения\дд.jpg'); /* Замените 'your-pattern-image.jpg' на путь к вашему изображению узора */
+  background-repeat: repeat;
+
+                }
+                  /*  Фон */
+            header {
+                background-color: #101010;
+                color: #fbfbfb;
+                padding: 15px;
+            }
+    
+            nav ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+    
+            nav ul li {
+                display: inline-block;
+                margin-right: 10px;
+            }
+    
+            section {
+                padding:20px;
+            }
+    
+            
+        </style>
+    </head>
+<body>
+    <header>
+        <nav>
+            <style>
+                ul li a {
+                  font-family: 'Oswald';
+                 src: url('D:\Oswald-VariableFont_wght.ttf') format('truetype');
+                    color: #ffffff; /* Задает цвет текста ссылок */
+                    
+                }
+            </style>
+            <ul>
+                
+                <li><a href="menu.html">Г</a></li>
+                <li><a href="AboutUs.html">Пра нас</a></li>
+                <li><a href="Goods.html">Тавары</a></li>
+                <li><a href="Contacsk.html">Кантакты</a></li>
+                <li><a href="Registratiom.html">Уваход</a></li>
+                Дата: <span id="data"></span>
+                Текущее время: <span id="currentTime"></span>
+                
+
+                
+            </ul>
+        </nav>
+    </header>
+
+    
+    <p >
+
+      
+        
+      <meta name="viewport" content="width=device-width,minimum-scale=1">
+      <meta name="generator" content="Google Web Designer 16.0.1.1115">
+      <meta name="environment" content="gwd-dv360"><meta name="ad.size" content="width=728,height=90">
+      <script async="" src="https://cdn.ampproject.org/amp4ads-v0.js"></script>
+      <style amp4ads-boilerplate="">body{visibility:hidden}</style>
+      <style amp-custom="">html,body{width:100%;height:100%;margin:0px}p,h1,h2,h3{margin:0px}.gwd-page-container{position:relative;width:100%;height:100%}.gwd-page-content{background-color:transparent;transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);-webkit-transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);-moz-transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);perspective:1400px;-webkit-perspective:1400px;-moz-perspective:1400px;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;position:absolute}.gwd-page-content *{transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d}.gwd-page-container-wrapper{width:728px;height:90px}.gwd-page-wrapper{background-color:#fff;position:absolute;top:0px;left:0px;transform:translateZ(0);-webkit-transform:translateZ(0);-moz-transform:translateZ(0);width:728px;height:90px}.gwd-page-size{width:728px;height:90px}#pagedeck>.amp-carousel-button-prev,#pagedeck>.amp-carousel-button-next{display:none}.gwd-p-9t0e{position:absolute;left:0px;top:58px;width:115px;height:31px;line-height:normal;font-size:16px;transform:translate3d(0, 1px, 0);-webkit-transform:translate3d(0, 1px, 0);-moz-transform:translate3d(0, 1px, 0);color:#ef1b1b}#page1.gwd-play-animation .gwd-gen-1rbrgwdanimation{animation:10s linear 0s 1 normal forwards gwd-gen-1rbrgwdanimation_gwd-keyframes;-webkit-animation:10s linear 0s 1 normal forwards gwd-gen-1rbrgwdanimation_gwd-keyframes;-moz-animation:10s linear 0s 1 normal forwards gwd-gen-1rbrgwdanimation_gwd-keyframes}.gwd-amp-img-gvkm{position:absolute;top:58px;left:163.667px;height:90px;transform:translate3d(-164px, -58px, 0);-webkit-transform:translate3d(-164px, -58px, 0);-moz-transform:translate3d(-164px, -58px, 0);width:729px}#page1.gwd-play-animation .gwd-gen-1b1kgwdanimation{animation:10s linear 0s 1 normal forwards gwd-gen-1b1kgwdanimation_gwd-keyframes;-webkit-animation:10s linear 0s 1 normal forwards gwd-gen-1b1kgwdanimation_gwd-keyframes;-moz-animation:10s linear 0s 1 normal forwards gwd-gen-1b1kgwdanimation_gwd-keyframes}</style>
+      <script data-source="https://cdn.ampproject.org/v0/amp-gwd-animation-0.1.js" async="" custom-element="amp-gwd-animation" src="https://cdn.ampproject.org/v0/amp-gwd-animation-0.1.js"></script>
+      <script data-source="https://cdn.ampproject.org/v0/amp-ad-exit-0.1.js" async="" custom-element="amp-ad-exit" src="https://cdn.ampproject.org/v0/amp-ad-exit-0.1.js"></script>
+      <script data-source="https://cdn.ampproject.org/v0/amp-carousel-0.1.js" async="" custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    </head>
+    
+    <body class="document-body">
+      <div class="gwd-page-container-wrapper">
+        <amp-carousel class="gwd-page-container" id="pagedeck" layout="fill" type="slides">
+          <div id="page1" class="gwd-page-wrapper page1-content" data-gwd-width="728px" data-gwd-height="90px">
+            <div class="gwd-page-content gwd-page-size">
+              <a href="Goods.html">
+<amp-img id="amp-img_1" src="____.jpg" width="729px" height="90px" class="gwd-amp-img-gvkm gwd-gen-1b1kgwdanimation"></amp-img>
+             
+              </a>
+              
+              
+              <h1 class="gwd-p-9t0e gwd-gen-1rbrgwdanimation">СЛЫШ КУПИ</h1></div>
+          </div>
+        </amp-carousel>
+      </div>
+      <amp-gwd-animation id="gwdAnim" timeline-event-prefix="tl_" layout="nodisplay"></amp-gwd-animation>
+      <amp-ad-exit id="exit-api">
+        <script type="application/json">{ "targets": {} }
+        </script>
+      </amp-ad-exit>
+    
+    
+    
+      <style amp-keyframes="">@keyframes gwd-gen-1rbrgwdanimation_gwd-keyframes{0%{transform:translate3d(0, 1px, 0);-webkit-transform:translate3d(0, 1px, 0);-moz-transform:translate3d(0, 1px, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{transform:translate3d(607px, 1px, 0);-webkit-transform:translate3d(607px, 1px, 0);-moz-transform:translate3d(607px, 1px, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1rbrgwdanimation_gwd-keyframes{0%{-webkit-transform:translate3d(0, 1px, 0);-webkit-animation-timing-function:linear}100%{-webkit-transform:translate3d(607px, 1px, 0);-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1rbrgwdanimation_gwd-keyframes{0%{-moz-transform:translate3d(0, 1px, 0);-moz-animation-timing-function:linear}100%{-moz-transform:translate3d(607px, 1px, 0);-moz-animation-timing-function:linear}}@keyframes gwd-gen-1b1kgwdanimation_gwd-keyframes{0%{transform:translate3d(-164px, -58px, 0);-webkit-transform:translate3d(-164px, -58px, 0);-moz-transform:translate3d(-164px, -58px, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{transform:translate3d(-164px, -58px, 0);-webkit-transform:translate3d(-164px, -58px, 0);-moz-transform:translate3d(-164px, -58px, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1b1kgwdanimation_gwd-keyframes{0%{-webkit-transform:translate3d(-164px, -58px, 0);-webkit-animation-timing-function:linear}100%{-webkit-transform:translate3d(-164px, -58px, 0);-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1b1kgwdanimation_gwd-keyframes{0%{-moz-transform:translate3d(-164px, -58px, 0);-moz-animation-timing-function:linear}100%{-moz-transform:translate3d(-164px, -58px, 0);-moz-animation-timing-function:linear}}</style></body></html>
+  
+
+      
+    </p>
+
+
+
+    <style>
+        section {
+          font-family: 'Oswald';
+                 src: url('D:\Oswald-VariableFont_wght.ttf') format('truetype');
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #ffffff;
+        }
+
+    p {
+          font-family: 'Oswald';
+                 src: url('D:\Oswald-VariableFont_wght.ttf') format('truetype');
+            
+        }
+
+        h1 {
+          font-family: 'Oswald';
+                 src: url('D:\Oswald-VariableFont_wght.ttf') format('truetype');
+            
+        }
+        h {
+            color: #333;
+        }
+    </style>
+
+
+    
+
+      <h1>Сардэчна запрашаем на сайт гульнявой студыі BebraGames!</h1>
+        <p>Тут вы знойдзеце інфармацыю аб нашай студыі і нашых гульнях.</p>
+
+       
+
+
+    <section>
+      <style>
+        .fon{
+          font-family: 'Oswald';
+                 src: url('D:\Oswald-VariableFont_wght.ttf') format('truetype');
+          text-align :center;
+        }
+          
+        </style>
+        <sus></sus>
+        <P class="sus"><h2><li><a href="AboutUs.html">Пра нас</a></li></h2></P>
+        
+    </section>
+
+         <p>Мы з'яўляемся адной з вядучых гульнявых студый у галіны. Наша каманда таленавітых распрацоўшчыкаў працуе над стварэннем займальных і якасных гульняў для нашых кліентаў.</p>
+       
+        
+         
+         <p class ="fon"><a href="AboutUs.html">
+            <img src="C:\Users\lesen\OneDrive\Изображения\стикеры\стикер 2.png" alt="Rome run 2048">
+        </a></p>
+        
+         
+       
+        
+        
+
+    <section>
+        <h2><li><a href="Goods.html">Тавары</a></li></h2>
+    </section>
+
+    <p>У нас ёсць шырокі асартымент гульняў, даступных для загрузкі. Вы можаце азнаёміцца ​​з нашымі апошнімі рэлізамі і абраць гульню, якая вам падабаецца.</p>
+       
+        
+        <a href="Goods.html">
+           
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+            * {box-sizing: border-box}
+            body {font-family: Verdana, sans-serif; margin:0}
+            .mySlides {display: none}
+            img {vertical-align: middle;}
+            
+            /* Slideshow container */
+            .slideshow-container {
+              max-width: 1000px;
+              position: relative;
+              margin: auto;
+            }
+            
+            /* Next & previous buttons */
+            .prev, .next {
+              cursor: pointer;
+              position: absolute;
+              top: 50%;
+              width: auto;
+              padding: 16px;
+              margin-top: -22px;
+              color: white;
+              font-weight: bold;
+              font-size: 18px;
+              transition: 0.6s ease;
+              border-radius: 0 3px 3px 0;
+            }
+            
+            /* Position the "next button" to the right */
+            .next {
+              right: 0;
+              border-radius: 3px 0 0 3px;
+            }
+            
+            /* On hover, add a black background color with a little bit see-through */
+            .prev:hover, .next:hover {
+              background-color: rgba(0,0,0,0.8);
+            }
+            
+            /* Caption text */
+            .text {
+              color: #f2f2f2;
+              font-size: 15px;
+              padding: 8px 12px;
+              position: absolute;
+              bottom: 8px;
+              width: 100%;
+              text-align: center;
+            }
+            
+            /* Number text (1/3 etc) */
+            .numbertext {
+              color: #fc0000;
+              font-size: 12px;
+              padding: 8px 12px;
+              position: absolute;
+              top: 0;
+            }
+            
+            /* The dots/bullets/indicators */
+            .dot {
+              cursor: pointer;
+              height: 15px;
+              width: 15px;
+              margin: 0 2px;
+              background-color: #bbb;
+              border-radius: 50%;
+              display: inline-block;
+              transition: background-color 0.6s ease;
+            }
+            
+            .active, .dot:hover {
+              background-color: #717171;
+            }
+            
+            /* Fading animation */
+            .fade {
+              -webkit-animation-name: fade;
+              -webkit-animation-duration: 1.5s;
+              animation-name: fade;
+              animation-duration: 1.5s;
+            }
+            
+            @-webkit-keyframes fade {
+              from {opacity: .4} 
+              to {opacity: 1}
+            }
+            
+            @keyframes fade {
+              from {opacity: .4} 
+              to {opacity: 1}
+            }
+            
+            /* On smaller screens, decrease text size */
+            @media only screen and (max-width: 300px) {
+              .prev, .next,.text {font-size: 11px}
+            }
+            </style>
+            </head>
+            <body>
+            
+            <div class="slideshow-container">
+            
+            <div class="mySlides fade">
+              <div class="numbertext">1 / 3</div>
+              <img src="C:\Users\lesen\OneDrive\Изображения\PS4\SHARE\Screenshots\Call of Duty®_ Black Ops Cold War\Call of Duty®_ Black Ops Cold War_20211016192134.png" style="width:100%">
+              <div class="text">Caption Text</div>
+            </div>
+            
+            <div class="mySlides fade">
+              <div class="numbertext">2 / 3</div>
+              <img src="C:\Users\lesen\OneDrive\Изображения\Cyberpunk 2077\photomode_22092023_210111.png" style="width:100%">
+              <div class="text">Caption Two</div>
+            </div>
+            
+            <div class="mySlides fade">
+              <div class="numbertext">3 / 3</div>
+              <img src="D:\Screenshots\Fortnite\Fortnite_20190113120713.jpg" style="width:100%">
+              <div class="text">Caption Three</div>
+            </div>
+            
+            <a class="prev" onclick="plusSlides(-1)">❮</a>
+            <a class="next" onclick="plusSlides(1)">❯</a>
+            
+            </div>
+            <br>
+            
+            <div style="text-align:center">
+              <span class="dot" onclick="currentSlide(1)"></span> 
+              <span class="dot" onclick="currentSlide(2)"></span> 
+              <span class="dot" onclick="currentSlide(3)"></span> 
+            </div>
+            
+            <script>
+            var slideIndex = 1;
+            showSlides(slideIndex);
+            
+            function plusSlides(n) {
+              showSlides(slideIndex += n);
+            }
+            
+            function currentSlide(n) {
+              showSlides(slideIndex = n);
+            }
+            
+            function showSlides(n) {
+              var i;
+              var slides = document.getElementsByClassName("mySlides");
+              var dots = document.getElementsByClassName("dot");
+              if (n > slides.length) {slideIndex = 1}    
+              if (n < 1) {slideIndex = slides.length}
+              for (i = 0; i < slides.length; i++) {
+                  slides[i].style.display = "none";  
+              }
+              for (i = 0; i < dots.length; i++) {
+                  dots[i].className = dots[i].className.replace(" active", "");
+              }
+              slides[slideIndex-1].style.display = "block";  
+              dots[slideIndex-1].className += " active";
+            }
+            </script>
+       
+        </a>
+        
+
+
+
+        <section>
+        <h2><li><a href="Contacsk.html">Кантакты</a></li></h2>
+        </section>
+        
+
+           <p>Калі ў вас ёсць пытанні ці прапановы, калі ласка, звяжыцеся з намі па наступных кантактных дадзеных:</p>
+        <ul>
+            <li>Email: BebraGames@gmail.com</li>
+            <li>Тэлефон: +1234567890</li>
+            <li>Адрас: вул. Пушкіна,дом выбшвачкі, Мінск, Беларусь</li>
+        </ul>
+</section>
+    </footer>
+    <iframe src="menu.html" name="menuFrame"></iframe>
+</body>
